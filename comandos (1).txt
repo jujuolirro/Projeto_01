@@ -1,0 +1,14 @@
+# Comandos utilizados:
+
+#Para executar o arquivo
+chmod +x calculadora.sh
+
+#Analisar as permissões
+ls -l calculadora.sh
+
+#Executar o arquivo
+./calculadora.sh
+
+#Voltar as permissões
+chmod 644 calculadora.sh
+
